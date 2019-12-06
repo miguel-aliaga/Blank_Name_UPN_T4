@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Diamante
+  - Life
+  - Energy
+  - Lava
+  - Trampa
+  - Puerta
+  - abajo
+  - arriba
+  - derecha
+  - izquierda
+  - Disparo
+  - Boss
+  - Puerta1
+  - Puerta2
+  - Puerta3
+  - Puerta4
+  - Enemy
+  - PuertaFinal
+  - btnJugar
+  - Salir
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
